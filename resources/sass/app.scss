@@ -1,0 +1,21 @@
+
+
+
+
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.gallery{
+    columns: 3 200px;
+}
